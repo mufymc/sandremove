@@ -1,0 +1,9 @@
+name: SandRemove
+version: 1.0
+main: me.mufy.sandremove.SandRemove
+author: mufy
+description: Break sand pillars and charge per sand.
+permissions:
+    sandremove.use:
+        description: Use sandremove functionallity
+        default: op
