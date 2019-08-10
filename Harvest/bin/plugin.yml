@@ -1,0 +1,9 @@
+name: Harvest
+version: 1.0
+main: me.mufy.harvest.Harvest
+author: mufy
+description: Mine sugar cane and have it go strait to your balance
+permissions:
+    harvest.use:
+        description: Use harvest features
+        default: op
