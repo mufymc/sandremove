@@ -1,0 +1,14 @@
+name: TrenchPicks
+version: 1.0
+main: me.mufy.trenchpicks.Main
+author: mufy
+description: 
+permissions:
+    trenchpick.give:
+            description: Give a trench pick
+            default: op
+commands:
+    trenchpick:
+        usage: /trenchpick [player] [level]
+        aliases: [trenchpick]
+        description: Give a Trench Pick
